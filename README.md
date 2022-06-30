@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Ethan
+##Kinesiology Student, Research Assistant, and Data Lover from Ontario, Canada
 
-<!--
-**ethanmb/ethanmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on an EMG American Sign Language ML Model.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning the the basics of Data Science through Data Camp tutorials and projects.
+
+🤔 I’m currently interested in learning more about Computer Vision to study human movement.
+
+💬 Ask me about Visual3D, Human Movement Kinematics.
+
+📫 How to reach me: ebrown23@guelphhumber.ca
+
+😄 Pronouns: He/Him/His
+
+⚡ Fun fact: A Computer Science dropout who came full circle to fall back in love with programming.
