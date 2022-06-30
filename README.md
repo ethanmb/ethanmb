@@ -1,5 +1,15 @@
-### Hi there 👋, I'm Ethan
-## Kinesiology Student, Research Assistant, and Data Lover from Ontario, Canada
+<p align="center">
+  <h3 align="center">Hi there 👋, I'm Ethan</h3>
+</p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/ethanbrownfitness/">LinkedIn</a>
+    ·
+    <a href="mailto:ebrown23@guelphhumber.ca">Email</a>
+</p>
+<p align="center">
+  <h4 align="center">Kinesiology Student, Research Assistant, and Data Lover from Ontario, Canada</h4>
+</p>
+
 
 
 🔭 I’m currently working on an EMG American Sign Language ML Model.
