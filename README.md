@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ethan
-##Kinesiology Student, Research Assistant, and Data Lover from Ontario, Canada
+## Kinesiology Student, Research Assistant, and Data Lover from Ontario, Canada
 
 
 🔭 I’m currently working on an EMG American Sign Language ML Model.
