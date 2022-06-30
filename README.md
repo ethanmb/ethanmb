@@ -18,7 +18,7 @@
 
 - 🤔 I’m currently interested in learning more about Computer Vision to study human movement.
 
-- 💬 Ask me about Visual3D, Human Movement Kinematics.
+- 💬 Ask me about why I love Python.
 
 - 😄 Pronouns: He/Him/His
 
