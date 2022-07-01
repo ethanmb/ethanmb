@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on an EMG American Sign Language ML Model.
+- 🔭 I’m currently working on designing an EMG American Sign Language ML Model.
 
 - 🌱 I’m currently learning the the basics of Data Science through Data Camp tutorials and projects.
 
