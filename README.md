@@ -22,4 +22,4 @@
 
 - 😄 Pronouns: He/Him/His
 
-- ⚡ Fun fact: A Computer Science dropout who came full circle to fall back in love with programming.
+- ⚡ Fun fact: I am a Computer Science dropout who came full circle to fall back in love with programming.
