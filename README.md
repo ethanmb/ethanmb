@@ -14,7 +14,7 @@
 </p>
 </p>
 
-
+- ❤ My love for Python grows with each passing day.
 
 - 🔭 I’m currently working on designing a Functional Movement Screening model using BlazePose pose estimation.
 
