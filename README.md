@@ -2,7 +2,7 @@
   <h3 align="center">Howdy 👋, I'm Ethan. Welcome to my GitHub Profile!</h3>
 </p>
 <p align="center">
-  <h5 align="center">#LearnInPublic #66DaysOfData</h4>
+  <h5 align="center">#LearnInPublic #66DaysOfData #100DaysOfCode</h4>
 </p>
 <p align="center">
     <a href="mailto:ebrown23@guelphhumber.ca"><img src="https://www.freepnglogos.com/uploads/email-png/email-icon-philippe-the-original-31.png" alt="drawing" width="40"/> 
