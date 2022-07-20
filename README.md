@@ -16,7 +16,7 @@
 
 - ❤ My love for Python grows with each passing day.
 
-- 🔭 I’m currently working on designing a Functional Movement Screening model using BlazePose pose estimation.
+- 🔭 I’m currently working on designing a model to predict step timing using kinematic data.
 
 - 🌱 I’m currently learning the the basics of Data Science through Data Camp tutorials and projects.
 
