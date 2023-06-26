@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/ethanbrownfitness/"><img src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" alt="drawing" width="40"/></a>
 </p>
 <p align="center">
-  <h4 align="center">Kinesiology Student, Research Assistant, and Data Lover from Ontario, Canada</h4>
+  <h4 align="center">MSc Student in Kinesiology and Data Lover from Canada</h4>
 </p>
 </p>
 
