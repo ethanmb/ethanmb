@@ -18,7 +18,7 @@
 
 - 🤔 I’m currently working on a data science project that tracks my fitness data and goals.
 
-- 🌱 I’m currently learning from The Elements of Statistical Learning: Data Mining, Inference, and Prediction
+- 🌱 I’m currently learning from The Elements of Statistical Learning: Data Mining, Inference, and Prediction.
 
 - 🔭 The lab team I'm apart of researchs: Behavioural Medicine, Temporal Dynamics, Dynamical Systems, with respect to Affect and Physical activity.
 
