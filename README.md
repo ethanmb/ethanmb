@@ -2,11 +2,11 @@
   <h3 align="center">Howdy 👋, I'm Ethan. Welcome to my GitHub Profile!</h3>
 </p>
 <p align="center">
-  <h5 align="center">#LearnInPublic #66DaysOfData #100DaysOfCode</h4>
+  <h5 align="center">#LearnInPublic</h4>
 </p>
 <p align="center">
-    <a href="mailto:ebrown23@guelphhumber.ca"><img src="https://www.freepnglogos.com/uploads/email-png/email-icon-philippe-the-original-31.png" alt="drawing" width="40"/> 
-    <a href="https://twitter.com/ethanbrown_DS"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-icon-circle-png-logo-8.png" width="40"/>
+    <a href="mailto:embrown@ualberta.ca"><img src="https://www.freepnglogos.com/uploads/email-png/email-icon-philippe-the-original-31.png" alt="drawing" width="40"/> 
+    <a href="https://twitter.com/ethanmackbrown"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-icon-circle-png-logo-8.png" width="40"/>
     <a href="https://www.linkedin.com/in/ethanbrownfitness/"><img src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" alt="drawing" width="40"/></a>
 </p>
 <p align="center">
@@ -14,13 +14,13 @@
 </p>
 </p>
 
-- ❤ My love for Python grows with each passing day.
+- ❤ My love for Math grows with each passing day.
 
-- 🔭 I’m currently working on designing a model to predict step timing using kinematic data.
+- 🤔 I’m currently working on designing a data project that tracks my fitness data and goals.
 
-- 🌱 I’m currently learning the the basics of Data Science through Data Camp tutorials and projects.
+- 🌱 I’m currently learning from The Elements of Statistical Learning: Data Mining, Inference, and Prediction
 
-- 🤔 I’m currently interested in learning more about Computer Vision to study human movement.
+- 🔭 The lab team I'm apart of researchs: Behavioural Medicine, Temporal Dynamics, Dynamical Systems, with respect to Affect and Physical activity.
 
 - ⚡ Fun fact: I am a Computer Science dropout who came full circle to fall back in love with programming.
 
