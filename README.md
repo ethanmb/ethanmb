@@ -16,7 +16,7 @@
 
 - ❤ My love for Math grows with each passing day.
 
-- 🤔 I’m currently working on designing a data project that tracks my fitness data and goals.
+- 🤔 I’m currently working on a data science project that tracks my fitness data and goals.
 
 - 🌱 I’m currently learning from The Elements of Statistical Learning: Data Mining, Inference, and Prediction
 
