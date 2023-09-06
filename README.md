@@ -5,8 +5,6 @@
   <h5 align="center">#LearnInPublic</h4>
 </p>
 <p align="center">
-    <a href="mailto:embrown@ualberta.ca"><img src="https://www.freepnglogos.com/uploads/email-png/email-icon-philippe-the-original-31.png" alt="drawing" width="40"/> 
-    <a href="https://twitter.com/ethanmackbrown"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-icon-circle-png-logo-8.png" width="40"/>
     <a href="https://www.linkedin.com/in/ethanbrownfitness/"><img src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" alt="drawing" width="40"/></a>
 </p>
 <p align="center">
