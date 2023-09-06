@@ -14,11 +14,8 @@
 </p>
 </p>
 
-- ❤ My love for Math grows with each passing day.
 
-- 🤔 I’m currently working on a data science project that tracks my fitness data and goals.
-
-- 🌱 I’m currently learning from The Elements of Statistical Learning: Data Mining, Inference, and Prediction.
+- 🌱 I’m currently learning from: An introduction to statistical learning with applications in Python.
 
 - 🔭 The lab team I'm apart of researchs: Behavioural Medicine, Temporal Dynamics, Dynamical Systems, with respect to Affect and Physical activity.
 
