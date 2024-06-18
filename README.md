@@ -13,8 +13,6 @@
 </p>
 
 
-- 🌱 I’m currently learning from: An introduction to statistical learning with applications in Python.
-
 - 🔭 The lab team I'm part of investigates: Behavioural Medicine, Temporal Dynamics with respect to Affect and Physical activity.
 
 - ⚡ Fun fact: I am a Computer Science dropout who came full circle to fall back in love with programming.
