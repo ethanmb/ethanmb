@@ -13,13 +13,6 @@
 </p>
 
 
-- 🔭 The lab team I'm part of investigates: Behavioural Medicine, Temporal Dynamics with respect to Affect and Physical activity.
+- 🔭 The lab team I'm part of investigates: Behavioural Medicine, temporal dynamics with respect to affect and physical activity.
 
 - ⚡ Fun fact: I am a Computer Science dropout who came full circle to fall back in love with programming.
-
-
-</p>
-<p align="center">
-  <h5 align="center">Special thanks to Ken Jee for inspiring the design of this README, and showing me this feature (https://github.com/PlayingNumbers/PlayingNumbers)</h4>
-</p>
-</p>
